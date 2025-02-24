@@ -1,6 +1,6 @@
 import "./App.css";
 import ThemeBtn from "./Components/ThemeBtn";
-import { themeProvider } from "./Context/Theme";
+import { ThemeProvider } from "./Context/Theme";
 import { useEffect, useState } from "react";
 import Card from "./Components/Card";
 
